@@ -1,0 +1,4 @@
+#Thu Apr 28 10:45:10 IST 2022
+base.0=D\:\\flutter_test\\mlkit-android-master\\vision\\final\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
